@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+yuno_orchestrator.db
+yuno_orchestrator.db-shm
+yuno_orchestrator.db-wal
+server.out.log
+server.err.log
+.env
