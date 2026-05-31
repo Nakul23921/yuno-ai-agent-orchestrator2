@@ -122,6 +122,11 @@ My order ORD-1024 is delayed. Can you help and refund me?
 
 The bot replies with the final agent output. The UI shows the same conversation and runtime trace.
 
+
+## 🎥 Demo Video
+
+[Watch the Demo Video] : https://www.loom.com/share/ea1d034ca4774f04bd846cdbda56dd72
+
 ## Optional OpenAI Mode
 
 The default `local` reasoner is deterministic for reliable demos. To use OpenAI for response generation:
